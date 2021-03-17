@@ -4,3 +4,6 @@
 [submodule "bx"]
 	path = bx
 	url = git@github.com:KlydoClock/bx.git
+[submodule "bgfx"]
+	path = bgfx
+	url = git@github.com:KlydoClock/bgfx.git
