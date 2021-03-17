@@ -4,3 +4,6 @@
 [submodule "bimg"]
 	path = bimg
 	url = git@github.com:KlydoClock/bimg.git
+[submodule "bx"]
+	path = bx
+	url = git@github.com:KlydoClock/bx.git
